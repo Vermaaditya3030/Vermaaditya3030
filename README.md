@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
 <h3 align="center">Competitive Programmer and Frontend developer from India.</h3>
 
