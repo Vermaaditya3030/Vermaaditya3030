@@ -50,7 +50,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vermaaditya3030&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+ /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vermaaditya3030&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermaaditya3030&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
@@ -59,7 +59,7 @@
 <!-- Socials -->
 <div align="center">
   
-## 🌐 Connect with Me 🍬
+## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@adityaverma0594) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078707058695) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya__4941?igshid=NTc4MTIwNjQ2YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-verma-56b374268/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaVerm23554) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeCraze2.0?si=YKlOy0hYoYAbC1p4) 
 
 <!-- Snake -->
