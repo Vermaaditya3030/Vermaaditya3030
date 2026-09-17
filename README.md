@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Django, React**
 
-- 👨‍💻 All of my projects are available at [At PthonAnyWhere](https://Vermaaditya3030.pythonanywhere.com/)
-
 - 📫 How to reach me **vermaaditya3030@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://68904b18336ce2f195243a28--flourishing-cactus-41b5fb.netlify.app/Documents/Aditya%20Verma.pdf)
